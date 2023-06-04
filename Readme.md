@@ -1,4 +1,4 @@
-### Hi! I'm Hector
+## Hi! I'm Hector
 
 
 ## Tecnologias
