@@ -1,4 +1,4 @@
-# Hola! Soy Hector Padron
+### Hi! I'm Hector
 
 
 ## Tecnologias
